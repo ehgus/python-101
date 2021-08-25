@@ -7,3 +7,4 @@
 - multi-process: MPI(https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it), spark, dask, ray, joblib
 - gpgpu: CUDA, gpu is slow, when do we use it? how to use it?
 - phase retrieval algorithm - optimization
+- python-matlab migration시 유의해야 할 것들: array index 변화(np.ascontiguousarray, np.asfortranarray)
